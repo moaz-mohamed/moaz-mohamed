@@ -1,46 +1,48 @@
-<h1  align="center">Hi 👋, I'm Moaz Mohamed</h1>
+<h1  align="center">Hi 👋, I'm Moaz Mohamed Farrag</h1>
 
 <p align="center">
-<img src="./assets/coding.gif" alt="moaz-mohamed" width=300>
+<img src="./assets/coding.gif" alt="moaz-mohamed" width=500>
 </p>
 
 <p align="center">
-<a  href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Backend+Developer;+DS+%7C+Algorithms+%7C+Problem+Solving;+Backend+Development+%7C+Cloud;+Node.js+%7C+MongoDB+%7C+AWS"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E4A2C&center=true&vCenter=true&width=435&lines=SRE+%7C+DevOps+Engineer;Cloud+Computing+%7C+CI%2FCD+Pipelines;Containerization+and+Orchestration;Infrastructure+as+Code+%7C+Monitoring" alt="Typing SVG" /></a>
 </p>
 
 <p  align="center">  <img  src="https://komarev.com/ghpvc/?username=moaz-mohamed&label=Profile%20views&color=0e75b6&style=plastic"  alt="moaz-mohamed"/>  </p>
 
-- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Database, Node.js and AWS**
+- 💬 Ask me about **SRE, DevOps, Cloud Computing, CI/CD Pipelines, Containerization, Orchestration, Infrastructure as Code, and Monitoring**
 
-- 📫 How to reach me **mmaf99@outlook.com**
+- 📫 How to reach me **moaz.farrag@outlook.com**
 
 ## <img  src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  width="30"  height="30"> Connect with me
 
 <p  align="left">
-<a  href="https://linkedin.com/in/moaz-mohamed99"  target="blank"><img  align="center"  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"  alt="moaz-mohamed99" /></a>
+<a  href="https://linkedin.com/in/moaz-farrag"  target="blank"><img  align="center"  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"  alt="moaz-farrag" /></a>
 </p>
 
 ## 🛠️ Skills and Tools
 
 <p  align="left">   
-<a  href="https://cplusplus.com"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=cpp"  alt="cplusplus"  width="40"  height="40"/></a> 
+<a  href="https://www.linux.org"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=linux"  alt="linux"  width="40"  height="40"/></a>
+<a  href="https://www.gnu.org/software/bash/"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=bash"  alt="bash"  width="40"  height="40"/></a>
+<a  href="https://git-scm.com"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=git"  alt="flutter"  width="40"  height="40"/></a>
 <a  href="https://www.java.com"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=java"  alt="java"  width="40"  height="40"/></a>
 <a  href="https://www.python.org"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=python"  alt="python"  width="40"  height="40"/></a>
-<a  href="https://developer.mozilla.org/en-US/docs/Web/HTML"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=html"  alt="html5"  width="40"  height="40"/></a> 
-<a  href="https://developer.mozilla.org/en-US/docs/Web/CSS"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=css"  alt="css3"  width="40"  height="40"/></a>
-<a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=js"  alt="javascript"  width="40"  height="40"/></a>
-<a  href="https://nodejs.org"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=nodejs"  alt="nodejs"  width="40"  height="40"/></a>
-<a  href="https://expressjs.com"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=express"  alt="express"  width="40"  height="40"/></a> 
+<a  href="https://www.mysql.com"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=mysql"  alt="mysql"  width="40"  height="40"/></a>
 <a  href="https://www.mongodb.com"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=mongodb"  alt="mongodb"  width="40"  height="40"/></a>
-<a  href="https://www.mysql.com/"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=mysql"  alt="mysql"  width="40"  height="40"/></a>  
-<a  href="https://firebase.google.com/"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=firebase"  alt="firebase"  width="40"  height="40"/></a> 
-<a  href="https://flutter.dev"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=flutter"  alt="flutter"  width="40"  height="40"/></a>
-<a  href="https://git-scm.com"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=git"  alt="flutter"  width="40"  height="40"/></a>
-<a  href="https://heroku.com"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=heroku"  alt="heroku"  width="40"  height="40"/></a> 
+<a  href="https://www.docker.com"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=docker"  alt="docker"  width="40"  height="40"/></a>
+<a  href="https://kubernetes.io"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=kubernetes"  alt="kubernetes"  width="40"  height="40"/></a>
 <a  href="https://aws.amazon.com"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=aws"  alt="aws"  width="40"  height="40"/></a>  
+<a  href="https://azure.microsoft.com"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=azure"  alt="azure"  width="40"  height="40"/></a>
+<a  href="https://www.terraform.io"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=terraform"  alt="terraform"  width="40"  height="40"/></a>
+<a  href="https://www.ansible.com"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=ansible"  alt="ansible"  width="40"  height="40"/></a>
+<a  href="https://www.jenkins.io"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=jenkins"  alt="jenkins"  width="40"  height="40"/></a>
+<a  href="https://www.prometheus.io"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=prometheus"  alt="prometheus"  width="40"  height="40"/></a>
+<a  href="https://grafana.com"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=grafana"  alt="grafana"  width="40"  height="40"/></a>
+<a  href="https://www.elastic.co"  target="_blank"  rel="noreferrer">  <img  src="https://skillicons.dev/icons?i=elasticsearch"  alt="elasticsearch"  width="40"  height="40"/></a>
 </p>
+
 
 
 ## 📊 GitHub Stats
