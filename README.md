@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **moaz.farrag@outlook.com**
 
-## <img  src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  width="30"  height="30"> Connect with me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  width="30"  height="30"> Connect with me
 
 <p  align="left">
 <a  href="https://linkedin.com/in/moaz-farrag"  target="blank"><img  align="center"  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"  alt="moaz-farrag" /></a>
